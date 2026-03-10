@@ -1,0 +1,19 @@
+# React
+lead-client/node_modules
+lead-client/build
+
+# .NET
+**/bin
+**/obj
+
+# Visual Studio
+.vs
+*.user
+*.suo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
